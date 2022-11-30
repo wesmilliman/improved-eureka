@@ -1,2 +1,2 @@
-from alpine
-run echo 'running'
+FROM alpine
+RUN echo 'running'
